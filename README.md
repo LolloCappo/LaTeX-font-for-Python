@@ -1,4 +1,4 @@
-# pyLaTeX
+# LaTeX font for Python
 Latex fonts for python plots
 
 from matplotlib import rc
